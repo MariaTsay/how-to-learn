@@ -13,7 +13,7 @@
   position: absolute;
   width: 228px;
   height: 32px;
-  top: 30px; 
+  top: 30px;
   left: 64px;
   z-index: 1;
 }
@@ -331,7 +331,7 @@
 
 .feynman__link {
   position: absolute;
-  top: calc(890px-50%);
+  top: calc(890px - 50%);
   right: 48px;
   text-decoration: none;
   color: #2f80ed;
@@ -345,7 +345,7 @@
     padding-bottom: 90px;
     position: relative;
     overflow: hidden;
-    background-color: #000
+    background-color: #000;
 }
 
 .section-title_theme_dark  {

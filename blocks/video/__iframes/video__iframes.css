@@ -1,7 +1,7 @@
 .video__iframes {
-    display: flex;
-    position: relative;
-    flex-direction: row;
-    margin: 50px auto -50px auto;
-    width: 1050px;
-  }
+  display: flex;
+  position: relative;
+  flex-direction: row;
+  margin: 50px auto -50px auto;
+  width: 1050px;
+}

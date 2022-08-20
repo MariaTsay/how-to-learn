@@ -4,7 +4,7 @@ It was created by Maria Tsay as the second project work of the web developers co
 The main topics which were used in the project:
 * animanation (rotate);
 * video;
-* iframes;
+* iframes;  
 For the project were used the following techniques and technologies:
 * Nested File Structure;
 * HTML: video, iframe, Api Youtube

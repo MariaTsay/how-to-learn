@@ -5,3 +5,10 @@ The main topics which were used in the project:
 * animanation (rotate);
 * video;
 * iframes;
+For the project were used the following techniques and technologies:
+* Nested File Structure;
+* HTML: video, iframe, Api Youtube
+* CSS: animation, transformations, smooth transitions, keyframes;
+* Flex;
+* Background-image;
+* Links;
